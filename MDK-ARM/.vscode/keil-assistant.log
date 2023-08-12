@@ -1,0 +1,94 @@
+[info] Log at : 2023/4/24|08:46:01|GMT+0800
+
+[info] Log at : 2023/4/24|08:46:10|GMT+0800
+
+[info] Log at : 2023/4/25|08:22:32|GMT+0800
+
+[info] Log at : 2023/4/25|16:48:01|GMT+0800
+
+[info] Log at : 2023/4/25|16:58:07|GMT+0800
+
+[info] Log at : 2023/4/26|08:33:36|GMT+0800
+
+[info] Log at : 2023/4/27|08:34:33|GMT+0800
+
+[info] Log at : 2023/4/28|18:19:26|GMT+0800
+
+[info] Log at : 2023/5/4|08:25:31|GMT+0800
+
+[info] Log at : 2023/5/4|08:51:02|GMT+0800
+
+[info] Log at : 2023/5/5|08:40:14|GMT+0800
+
+[info] Log at : 2023/5/15|08:36:28|GMT+0800
+
+[info] Log at : 2023/5/16|08:36:14|GMT+0800
+
+[info] Log at : 2023/5/27|09:02:05|GMT+0800
+
+[info] Log at : 2023/5/29|17:29:32|GMT+0800
+
+[info] Log at : 2023/5/29|17:39:18|GMT+0800
+
+[SyntaxError: Unexpected token / in JSON at position 834
+	at JSON.parse (<anonymous>)
+	at F.updateCppProperties (c:\Users\Administrator\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:10911)
+	at F.<anonymous> (c:\Users\Administrator\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:12641)
+	at Generator.next (<anonymous>)
+	at c:\Users\Administrator\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:4542
+	at new Promise (<anonymous>)
+	at r (c:\Users\Administrator\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:4287)
+	at F.load (c:\Users\Administrator\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:11372)
+	at w.<anonymous> (c:\Users\Administrator\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:8799)
+	at Generator.next (<anonymous>)
+	at a (c:\Users\Administrator\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:4344)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)]
+[info] Log at : 2023/5/29|17:57:21|GMT+0800
+
+[SyntaxError: Unexpected token / in JSON at position 834
+	at JSON.parse (<anonymous>)
+	at F.updateCppProperties (c:\Users\Administrator\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:10911)
+	at F.<anonymous> (c:\Users\Administrator\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:12641)
+	at Generator.next (<anonymous>)
+	at c:\Users\Administrator\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:4542
+	at new Promise (<anonymous>)
+	at r (c:\Users\Administrator\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:4287)
+	at F.load (c:\Users\Administrator\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:11372)
+	at w.<anonymous> (c:\Users\Administrator\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:8799)
+	at Generator.next (<anonymous>)
+	at a (c:\Users\Administrator\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:4344)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)]
+[info] Log at : 2023/5/29|18:10:17|GMT+0800
+
+Log at : 2023/5/29|18:10:26|GMT+0800
+
+Log at : 2023/6/5|08:34:21|GMT+0800
+
+Log at : 2023/6/9|13:48:08|GMT+0800
+
+Log at : 2023/6/14|08:36:02|GMT+0800
+
+Log at : 2023/6/14|18:37:30|GMT+0800
+
+Log at : 2023/6/25|08:46:03|GMT+0800
+
+Log at : 2023/7/3|10:53:38|GMT+0800
+
+Log at : 2023/7/4|11:01:45|GMT+0800
+
+Log at : 2023/7/6|08:47:55|GMT+0800
+
+Log at : 2023/7/11|17:31:03|GMT+0800
+
+Log at : 2023/7/14|11:21:02|GMT+0800
+
+Log at : 2023/7/20|19:18:51|GMT+0800
+
+Log at : 2023/7/26|13:47:18|GMT+0800
+
+Log at : 2023/7/31|16:09:32|GMT+0800
+
+Log at : 2023/8/3|11:18:42|GMT+0800
+
+Log at : 2023/8/10|16:24:19|GMT+0800
+
